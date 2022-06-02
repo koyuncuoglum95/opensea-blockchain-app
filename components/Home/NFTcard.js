@@ -29,6 +29,7 @@ const NFTcard = ({ listing }) => {
           height={340}
           width={340}
           alt={listing.asset.name}
+          loader={() => listing.asset.image}
          />
       </div>
 
