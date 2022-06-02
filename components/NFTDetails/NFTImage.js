@@ -31,6 +31,7 @@ const NFTImage = ({ image }) => {
           width={448}
           height={448}
           alt='nft'
+          loader={() => image}
           />}
         </div>
     </div>
