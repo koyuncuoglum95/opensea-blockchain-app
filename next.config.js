@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['lh3.googleusercontent.com','gateway.ipfscdn.io','opensea-blockchain-app-nine.vercel.app']
+    domains: ['lh3.googleusercontent.com','gateway.ipfscdn.io','ipfscdn.io']
   }
 }
 
