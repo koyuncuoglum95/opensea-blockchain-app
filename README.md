@@ -6,3 +6,4 @@
 
 2.) After you connect your wallet, use rinkeby faucet
 
+https://opensea-blockchain-mld46ti0t-koyuncuoglum95.vercel.app/
